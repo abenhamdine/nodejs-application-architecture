@@ -1,7 +1,10 @@
 # Guidelines and ressources to define a nodejs application architecture
 
-## Organization of application layers
+## 1. Organization of application layers
 
-### In Express 
+### Ressources
+
+#### For Express application  
 
 - https://www.coreycleary.me/why-you-should-isolate-express-from-the-rest-of-your-node-application/
+- https://www.caffeinecoding.com/better-express-routing-for-nodejs/
