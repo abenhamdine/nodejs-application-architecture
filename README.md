@@ -1,4 +1,4 @@
-# Guidelines and ressources to define a nodejs application architecture
+# Guidelines and ressources to implement a robust, maintanable and scalable nodejs application architecture
 
 ## 1. Organization of application layers
 
