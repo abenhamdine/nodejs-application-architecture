@@ -10,6 +10,7 @@
 - https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/
 - https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad
 - https://blog.codeminer42.com/nodejs-and-good-practices-354e7d763626 and corresponding repo https://github.com/talyssonoc/node-api-boilerplate
+- https://github.com/i0natan/nodebestpractices#1-project-structure-practices
 
 
 #### For Express application  
