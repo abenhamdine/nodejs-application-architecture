@@ -11,6 +11,7 @@
 - https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad
 - https://blog.codeminer42.com/nodejs-and-good-practices-354e7d763626 and corresponding repo https://github.com/talyssonoc/node-api-boilerplate
 - https://github.com/i0natan/nodebestpractices#1-project-structure-practices
+- https://blog.logrocket.com/common-api-mistakes-and-how-to-avoid-them-804fbcb9cc4b
 
 
 #### For Express application  
